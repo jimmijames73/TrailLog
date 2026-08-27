@@ -1,2 +1,2 @@
 # TrailLog
-TrailLog privacy policy
+TrailLog
